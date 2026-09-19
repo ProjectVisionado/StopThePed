@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PedAnswers>
+  <Drinking question="¿Ha estado bebiendo?">
+      <Positive>
+          <Answer>Me tomé un chupito de vodka hace una hora</Answer>
+          <Answer>Me bebí un pack de seis cervezas</Answer>
+          <Answer>Sí, tomé un par de cervezas</Answer>
+          <Answer>Sí, tomé un sorbito de vino</Answer>
+          <Answer>Claro, necesito entrar en calor</Answer>
+          <Answer>El alcohol me da calor</Answer>
+          <Answer>Las bebidas alcohólicas son mis favoritas</Answer>
+          <Answer>Necesito beber para mantenerme concentrado</Answer>
+          <Answer>No tengo por qué responder a eso..</Answer>
+          <Answer>Tengo derecho a callarme la boca..</Answer>
+      </Positive>
+      <Negative>
+          <Answer>No bebo alcohol</Answer>
+          <Answer>El alcohol no es bueno para mi salud..</Answer>
+          <Answer>Nunca he bebido en mi vida. Lo juro..</Answer>
+          <Answer>Estoy como una rosa.. Nada de alcohol en mi sangre..</Answer>
+          <Answer>No, no he bebido nada</Answer>
+          <Answer>Llevo 6 meses sobrio</Answer>
+          <Answer>¿Me huele a alcohol?</Answer>
+          <Answer>¡No!</Answer>
+      </Negative>
+  </Drinking>
+  <Drugs question="¿Ha consumido alguna droga recientemente?">
+      <Positive>
+          <Answer>Tomo drogas por mi condición médica..</Answer>
+          <Answer>Tomo pastillas con receta..</Answer>
+          <Answer>Uso algunas drogas por placer</Answer>
+          <Answer>Las uso de vez en cuando</Answer>
+          <Answer>Las drogas son buenas para el bienestar</Answer>
+          <Answer>Ahora mismo estoy colocado...</Answer>
+          <Answer>¿Tengo que responder a eso?</Answer>
+          <Answer>Tengo derecho a callarme..</Answer>
+      </Positive>
+      <Negative>
+          <Answer>Nada de drogas.. Las drogas te ponen enfermo..</Answer>
+          <Answer>¿Por qué iba a consumir drogas? No quiero morir...</Answer>
+          <Answer>Nunca he consumido drogas en mi vida</Answer>
+          <Answer>¿Tengo pinta de drogadicto?</Answer>
+          <Answer>Llevo un año limpio</Answer>
+          <Answer>¡No!</Answer>
+          <Answer>Sin dinero.. sin drogas..</Answer>
+      </Negative>
+  </Drugs>
+  <IllegalItem question="¿Lleva algo ilegal encima?">
+      <Answer>No, agente. Soy inofensivo..</Answer>
+      <Answer>Soy un buen ciudadano</Answer>
+      <Answer>No quiero ir a la cárcel</Answer>
+      <Answer>Puede que lleve algo..</Answer>
+      <Answer>No sé. Compruébelo usted mismo..</Answer>
+      <Answer>¡No!</Answer>
+      <Answer>Nada ilegal encima...</Answer>
+      <Answer>Se me olvidó por completo..</Answer>
+      <Answer>No tiene derecho a tocarme</Answer>
+      <Answer>Puede que sí, puede que no..</Answer>
+  </IllegalItem>
+  <PedDoing question="¿Qué está haciendo?">
+      <Answer>Solo dando una vuelta</Answer>
+      <Answer>Necesito tomar el aire</Answer>
+      <Answer>Estoy relajándome</Answer>
+      <Answer>Solo estoy esperando a un amigo..</Answer>
+      <Answer>¡No es asunto suyo!</Answer>
+      <Answer>¡Ocúpese de sus propios asuntos!</Answer>
+      <Answer>¿Y a usted qué le importa?</Answer>
+      <Answer>No tengo por qué responder a eso..</Answer>
+      <Answer>Prefiero no contestar..</Answer>
+      <Answer>Tengo derecho a callarme la boca..</Answer>
+  </PedDoing>
+  <PedFrom question="¿De dónde viene?">
+      <Answer>De casa</Answer>
+      <Answer>De casa de un amigo</Answer>
+      <Answer>Del trabajo</Answer>
+      <Answer>Del supermercado</Answer>
+      <Answer>¡Del infierno!</Answer>
+      <Answer>Acabo de salir del hospital</Answer>
+      <Answer>Tengo derecho a no responder..</Answer>
+      <Answer>Tengo derecho a guardar silencio..</Answer>
+  </PedFrom>
+  <PedTo question="¿A dónde se dirige?">
+      <Answer>Quiero ir a casa</Answer>
+      <Answer>Voy de camino a casa</Answer>
+      <Answer>Voy al trabajo</Answer>
+      <Answer>Solo voy al supermercado</Answer>
+      <Answer>Voy a ver a un amigo</Answer>
+      <Answer>Voy a casa de un amigo</Answer>
+      <Answer>A donde me dé la gana..</Answer>
+      <Answer>No querrá saberlo..</Answer>
+      <Answer>Tengo derecho a no responder..</Answer>
+  </PedTo>
+</PedAnswers>

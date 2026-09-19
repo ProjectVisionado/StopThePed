@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomQuestions>
+  <CustomQuestion>
+    <Question>¿Vives en este barrio?</Question>
+    <Answers>
+      <Answer>Sí, agente, vivo con mi abuela</Answer>
+      <Answer>¿Por qué tiene tanta curiosidad?</Answer>
+      <Answer>No</Answer>
+      <Answer>No, vivo más al norte</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestion>
+    <Question>¿Tiene alguna orden de detención?</Question>
+    <Answers>
+      <Answer>Qué sé yo</Answer>
+      <Answer>Puede ser, de otra comunidad</Answer>
+      <Answer>No me acuerdo</Answer>
+      <Answer>Compruébelo usted mismo</Answer>
+    </Answers>
+  </CustomQuestion>
+  <CustomQuestionGroup name="Preguntas sobre Alcohol">
+    <CustomQuestion>
+      <Question>¿Cuándo fue la última vez que bebió?</Question>
+      <Answers>
+        <Answer>Hace un par de horas</Answer>
+        <Answer>No me acuerdo</Answer>
+        <Answer>Hace solo una hora</Answer>
+        <Answer>Ayer</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Cuánto ha bebido?</Question>
+      <Answers>
+        <Answer>Una copa de vino</Answer>
+        <Answer>Solo 2 cervezas</Answer>
+        <Answer>Una botella de vodka</Answer>
+        <Answer>Solo un sorbito de bourbon</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Por qué tiene los ojos rojos?</Question>
+      <Answers>
+        <Answer>Estoy muy cansado, agente. Trabajo 14 horas al día</Answer>
+        <Answer>Creo que me ha entrado algo de suciedad en los ojos</Answer>
+        <Answer>¿Cree que estoy borracho?</Answer>
+        <Answer>Sí, siempre tengo los ojos rojos. Creo que es normal</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Preguntas sobre el Vehículo">
+    <CustomQuestion>
+      <Question>¿Es suyo ese vehículo?</Question>
+      <Answers>
+        <Answer>Sí, es mío</Answer>
+        <Answer>Le he pedido prestado el coche a mi madre</Answer>
+        <Answer>Por supuesto. ¿Por qué lo pregunta?</Answer>
+        <Answer>Sí. Es bonito, ¿verdad?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Sabe que la ficha técnica ha caducado?</Question>
+      <Answers>
+        <Answer>Lo siento mucho. Se me debió olvidar renovarla</Answer>
+        <Answer>¿En serio? No me lo creo</Answer>
+        <Answer>¿Está seguro? La renové el mes pasado</Answer>
+        <Answer>Lo siento, agente, la renovaré cuanto antes</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Sabe que el seguro ha caducado?</Question>
+      <Answers>
+        <Answer>Lo siento mucho. Se me debió olvidar renovarlo</Answer>
+        <Answer>No me lo creo</Answer>
+        <Answer>¿Está seguro? Lo renové el mes pasado</Answer>
+        <Answer>Lo siento, agente, lo renovaré cuanto antes</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Preguntas sobre Narcóticos">
+    <CustomQuestion>
+      <Question>¿Qué es ese polvo blanco?</Question>
+      <Answers>
+        <Answer>No sé de qué me habla</Answer>
+        <Answer>Creo que es solo sal</Answer>
+        <Answer>Puede que sea cocaína. No estoy seguro</Answer>
+        <Answer>Mmm... ¿Qué cree usted que es?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Qué son esos cristales blancos?</Question>
+      <Answers>
+        <Answer>No sé de qué me habla</Answer>
+        <Answer>Creo que es solo azúcar</Answer>
+        <Answer>Puede que sea meta. No estoy seguro</Answer>
+        <Answer>Mmm... ¿Qué cree usted que es?</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Son marcas de agujas en su brazo?</Question>
+      <Answers>
+        <Answer>Son picaduras de abeja</Answer>
+        <Answer>Son solo marcas del gotero</Answer>
+        <Answer>¿Qué cree usted que son?</Answer>
+        <Answer>Sí, también tengo en otras partes</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+  <CustomQuestionGroup name="Preguntas sobre Armas">
+    <CustomQuestion>
+      <Question>¿Esta arma está robada?</Question>
+      <Answers>
+        <Answer>Ni idea. La compré en una tienda de empeño</Answer>
+        <Answer>¿Por qué no lo comprueba en su sistema?</Answer>
+        <Answer>Es legal. Tengo el recibo</Answer>
+        <Answer>No estoy seguro. Me la prestó un amigo</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Por qué no tiene permiso de armas?</Question>
+      <Answers>
+        <Answer>No lo necesito. Es demasiado caro</Answer>
+        <Answer>Hay un error. Lo conseguí hace una semana</Answer>
+        <Answer>No he tenido tiempo de tramitarlo</Answer>
+        <Answer>El permiso de armas es solo para los ricos</Answer>
+      </Answers>
+    </CustomQuestion>
+    <CustomQuestion>
+      <Question>¿Lleva algún arma encima?</Question>
+      <Answers>
+        <Answer>No. Odio las armas</Answer>
+        <Answer>¿Por qué no me cachea?</Answer>
+        <Answer>Sí. Bastantes</Answer>
+        <Answer>Puede ser. No me acuerdo</Answer>
+      </Answers>
+    </CustomQuestion>
+  </CustomQuestionGroup>
+</CustomQuestions>

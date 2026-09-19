@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Cada etiqueta "Item" puede tener el atributo "chance"
+    # Los valores posibles de "chance" son: "rare" (raro), "normal", "often" (frecuente)
+    # Si el atributo "chance" no está definido, el plugin lo establecerá como "normal" por defecto
+-->
+<PatDownItems>
+    <RedItems>
+       <Item chance="normal">una pistola</Item>
+       <Item>un revólver pequeño</Item>
+       <Item chance="rare">una granada</Item>
+       <Item>una bolsita de marihuana</Item>
+       <Item>una bolsita pequeña de cocaína</Item>
+       <Item>una bolsita de meta</Item>
+       <Item>una bolsita de heroína</Item>
+       <Item>fentanilo</Item>
+       <Item>pastillas de prescripción ilegales</Item>
+       <Item>PCP</Item>
+    </RedItems>
+    <YellowItems>
+       <Item>una aguja usada</Item>
+       <Item chance="often">navaja de bolsillo</Item>
+       <Item>alicate cortacables</Item>
+       <Item>una pipa de meta quemada</Item>
+       <Item>puño americano</Item>
+       <Item>spray de pimienta</Item>
+       <Item>cuchara oxidada</Item>
+       <Item>una ganzúa</Item>
+       <Item>máscara de payaso</Item>
+       <Item>máscara de terrorista</Item>
+       <Item>porra policial</Item>
+       <Item>destornillador</Item>
+       <Item>una botella pequeña con un líquido transparente</Item>
+       <Item>una cuchara metálica con residuos de polvo negro</Item>
+       <Item>una pipa con residuos de polvo tostado</Item>
+       <Item>una pipa con residuos de polvo marrón</Item>
+       <Item>un bong con residuos de polvo blanco</Item>
+       <Item>pastillas sin marcar</Item>
+       <Item>tres pastillas sin marcar</Item>
+       <Item>unas cuantas tabletas en un envase de plástico</Item>
+       <Item>unas cuantas cápsulas en un envase de plástico</Item>
+       <Item>un billete cubierto de polvo blanco</Item>
+       <Item>una bolsita de cristales transparentes</Item>
+       <Item>una bolsita de polvo marrón</Item>
+       <Item>una bolsita de pastillas sin marcar</Item>
+       <Item>una bolsita de polvo blanco</Item>
+       <Item>una bolsita de cristales azules</Item>
+       <Item>una bolsita de polvo tostado</Item>
+       <Item>un frasco pequeño con líquido sospechoso</Item>
+       <Item>unos papeles de papel secante</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item chance="normal">cartera</Item>
+       <Item>llaves</Item>
+       <Item chance="often">teléfono móvil</Item>
+       <Item>cámara de bolsillo</Item>
+       <Item>revista para adultos</Item>
+       <Item>unas bragas</Item>
+       <Item>dildo</Item>
+       <Item>un vibrador</Item>
+       <Item>una postal</Item>
+       <Item>un ticket de multa</Item>
+       <Item>un puro</Item>
+       <Item>un condón usado</Item>
+       <Item>un condón</Item>
+       <Item>linterna</Item>
+       <Item>llave del coche</Item>
+       <Item>unos prismáticos</Item>
+       <Item chance="often">un paquete de cigarrillos</Item>
+       <Item>teléfono inteligente</Item>
+       <Item chance="often">un bolígrafo</Item>
+       <Item>un lápiz</Item>
+       <Item>mechero zippo</Item>
+       <Item>cerillas</Item>
+       <Item>un billete de avión</Item>
+       <Item>gafas de sol</Item>
+       <Item>un chupa-chups</Item>
+       <Item>cinta de embalar</Item>
+    </GreenItems>
+</PatDownItems>

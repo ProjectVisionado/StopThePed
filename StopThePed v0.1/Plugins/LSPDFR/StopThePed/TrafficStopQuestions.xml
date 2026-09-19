@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TrafficStopQuestions>
+  <TrafficStopQuestion>
+    <Question>¿Ha estado bebiendo?</Question>
+    <Answers>
+      <Answer>Me tomé un chupito de vodka hace una hora</Answer>
+      <Answer>Me bebí un pack de seis cervezas</Answer>
+      <Answer>Sí, tomé un par de cervezas</Answer>
+      <Answer>Sí, tomé un sorbito de vino</Answer>
+      <Answer>Claro, necesito entrar en calor</Answer>
+      <Answer>El alcohol me da calor</Answer>
+      <Answer>Las bebidas alcohólicas son mis favoritas</Answer>
+      <Answer>Necesito beber para mantenerme concentrado</Answer>
+      <Answer>No tengo por qué responder a eso..</Answer>
+      <Answer>Tengo derecho a callarme la boca..</Answer>
+      <Answer>No bebo alcohol</Answer>
+      <Answer>El alcohol no es bueno para mi salud..</Answer>
+      <Answer>Nunca he bebido en mi vida. Lo juro..</Answer>
+      <Answer>Estoy como una rosa.. Nada de alcohol en mi sangre..</Answer>
+      <Answer>No, no he bebido nada</Answer>
+      <Answer>Llevo 6 meses sobrio</Answer>
+      <Answer>¿Me huele a alcohol?</Answer>
+      <Answer>¡No!</Answer>
+    </Answers>
+  </TrafficStopQuestion>
+  <TrafficStopQuestion>
+    <Question>¿Ha consumido alguna droga recientemente?</Question>
+    <Answers>
+      <Answer>Tomo drogas por mi condición médica..</Answer>
+      <Answer>Tomo pastillas con receta..</Answer>
+      <Answer>Uso algunas drogas por placer</Answer>
+      <Answer>Las uso de vez en cuando</Answer>
+      <Answer>Las drogas son buenas para el bienestar</Answer>
+      <Answer>Ahora mismo estoy colocado...</Answer>
+      <Answer>¿Tengo que responder a eso?</Answer>
+      <Answer>Tengo derecho a callarme..</Answer>
+      <Answer>Nada de drogas.. Las drogas te ponen enfermo..</Answer>
+      <Answer>¿Por qué iba a consumir drogas? No quiero morir...</Answer>
+      <Answer>Nunca he consumido drogas en mi vida</Answer>
+      <Answer>¿Tengo pinta de drogadicto?</Answer>
+      <Answer>Llevo un año limpio</Answer>
+      <Answer>¡No!</Answer>
+      <Answer>Sin dinero.. sin drogas..</Answer>
+    </Answers>
+  </TrafficStopQuestion>
+  <TrafficStopQuestion>
+    <Question>¿De dónde viene?</Question>
+    <Answers>
+      <Answer>De casa</Answer>
+      <Answer>De casa de un amigo</Answer>
+      <Answer>Del trabajo</Answer>
+      <Answer>Del supermercado</Answer>
+      <Answer>¡Del infierno!</Answer>
+      <Answer>Acabo de salir del hospital</Answer>
+      <Answer>Tengo derecho a no responder..</Answer>
+      <Answer>Tengo derecho a guardar silencio..</Answer>
+    </Answers>
+  </TrafficStopQuestion>
+  <TrafficStopQuestion>
+    <Question>¿A dónde se dirige?</Question>
+    <Answers>
+      <Answer>Quiero ir a casa</Answer>
+      <Answer>Voy de camino a casa</Answer>
+      <Answer>Voy al trabajo</Answer>
+      <Answer>Solo voy al supermercado</Answer>
+      <Answer>Voy a ver a un amigo</Answer>
+      <Answer>Voy a casa de un amigo</Answer>
+      <Answer>A donde me dé la gana..</Answer>
+      <Answer>No querrá saberlo..</Answer>
+      <Answer>Tengo derecho a no responder..</Answer>
+    </Answers>
+  </TrafficStopQuestion>
+  <TrafficStopQuestionGroup name="Infracciones de Circulación">
+    <TrafficStopQuestion>
+      <Question>¿Por qué se ha saltado el semáforo en rojo?</Question>
+      <Answers>
+        <Answer>Solo han sido décimas de segundo.. no pasa nada..</Answer>
+        <Answer>Lo siento, tengo prisa.. necesito ir al baño</Answer>
+        <Answer>Creía que todavía estaba en ámbar</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué no usó el intermitente?</Question>
+      <Answers>
+        <Answer>No lo necesito. Los demás conductores son suficientemente listos</Answer>
+        <Answer>Me da pereza hacerlo, agente</Answer>
+        <Answer>Solo lo uso cuando es necesario</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué no paró en la señal de stop?</Question>
+      <Answers>
+        <Answer>Creo que no era realmente necesario</Answer>
+        <Answer>No había ningún otro vehículo</Answer>
+        <Answer>Tranquilícese.. No ha muerto nadie</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué iba a exceso de velocidad?</Question>
+      <Answers>
+        <Answer>¡Nací para ir rápido!</Answer>
+        <Answer>No era consciente del límite de velocidad</Answer>
+        <Answer>Todo el mundo va rápido. ¿Por qué yo no iba a hacerlo?</Answer>
+        <Answer>Lo siento, llego tarde a una cita</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué estaba enviando mensajes mientras conducía?</Question>
+      <Answers>
+        <Answer>Necesitaba enviarle un mensaje importante a mi mujer</Answer>
+        <Answer>No debería ser un problema. Lo hice mientras estaba parado</Answer>
+        <Answer>Mire... mi smartphone es guay, ¿verdad?</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué estaba hablando por teléfono mientras conducía?</Question>
+      <Answers>
+        <Answer>Lo siento, me llamó mi jefe</Answer>
+        <Answer>¿Cuál es el problema? Creo que usaba el manos libres</Answer>
+        <Answer>Mi coche no tiene función de llamadas integrada</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué conducía de forma temeraria?</Question>
+      <Answers>
+        <Answer>Tengo prisa para llegar al hospital</Answer>
+        <Answer>Siempre conduzco así. No hay nada malo en ello</Answer>
+        <Answer>Lo siento, soy conductor en prácticas</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué iba en moto sin casco?</Question>
+      <Answers>
+        <Answer>Me da mucho calor llevarlo puesto</Answer>
+        <Answer>Lo siento, agente, no tengo dinero para comprarlo</Answer>
+        <Answer>No quiero que me estropee el peinado</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué iba pegado al vehículo de delante?</Question>
+      <Answers>
+        <Answer>No quiero que otros conductores se me cuelen</Answer>
+        <Answer>Ese es mi estilo de conducción. ¿Hay algún problema?</Answer>
+        <Answer>¡Ese conductor idiota va demasiado despacio!</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+  <TrafficStopQuestionGroup name="Infracciones de Documentación">
+    <TrafficStopQuestion>
+      <Question>¿Sabe que su carnet de conducir ha caducado?</Question>
+      <Answers>
+        <Answer>Debo haberme olvidado de renovarlo. Lo siento, agente</Answer>
+        <Answer>Lo sé. Pero me gusta este carnet porque salgo joven en la foto</Answer>
+        <Answer>Por favor, solo deme un aviso. Lo renovaré enseguida</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que su seguro ha caducado?</Question>
+      <Answers>
+        <Answer>¿Está seguro? Debería renovarse automáticamente</Answer>
+        <Answer>No tengo dinero para renovarlo</Answer>
+        <Answer>Por favor, solo deme un aviso. Lo renovaré enseguida</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que su ficha técnica ha caducado?</Question>
+      <Answers>
+        <Answer>No recibí ningún correo de la DGT sobre la renovación</Answer>
+        <Answer>Mi secretaria debió olvidarse de renovarla</Answer>
+        <Answer>Por favor, solo deme un aviso. La renovaré enseguida</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué conduce sin carnet?</Question>
+      <Answers>
+        <Answer>Uy... Lo siento... En realidad soy un inmigrante ilegal, agente.</Answer>
+        <Answer>Intenté sacármelo pero siempre suspendía los exámenes</Answer>
+        <Answer>Me lo retiraron hace un año</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué conduce sin ficha técnica?</Question>
+      <Answers>
+        <Answer>Mmm... Acabo de comprar este vehículo a un amigo</Answer>
+        <Answer>Lo alquilo. No me dieron la documentación</Answer>
+        <Answer>Supongo que la empresa de arrendamiento se olvidó de enviármela</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué conduce sin seguro?</Question>
+      <Answers>
+        <Answer>El seguro es demasiado caro</Answer>
+        <Answer>No lo necesito. Siempre conduzco con cuidado</Answer>
+        <Answer>¿Es obligatorio tener seguro?</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Por qué conduce con el carnet suspendido?</Question>
+      <Answers>
+        <Answer>Lo siento, agente, realmente necesito conducir para ir al trabajo</Answer>
+        <Answer>¿Está seguro? Me dijeron que ya no tenía el carnet suspendido</Answer>
+        <Answer>Le juro que no sabía que tenía el carnet suspendido</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+  <TrafficStopQuestionGroup name="Infracciones de Equipamiento">
+    <TrafficStopQuestion>
+      <Question>¿Sabe que tiene un faro roto?</Question>
+      <Answers>
+        <Answer>Perdóneme, agente, lo haré arreglar hoy mismo</Answer>
+        <Answer>No pasa nada. Aún puedo ver la carretera</Answer>
+        <Answer>El otro todavía funciona, creo</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que las luces de freno no funcionan?</Question>
+      <Answers>
+        <Answer>Perdóneme, agente, lo haré arreglar hoy mismo</Answer>
+        <Answer>Vaya, lo siento, no lo sabía</Answer>
+        <Answer>Antes funcionaban. Deben ser esos mecánicos inútiles</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que tiene el parabrisas roto?</Question>
+      <Answers>
+        <Answer>Sí, claro. Necesito que entre algo de aire</Answer>
+        <Answer>Estaba a punto de llevarlo a arreglar</Answer>
+        <Answer>Esperemos que hoy no llueva</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que los neones/luces inferiores están prohibidos?</Question>
+      <Answers>
+        <Answer>Lo sé. Pero quedan muy chulos</Answer>
+        <Answer>Lo siento, no lo sabía</Answer>
+        <Answer>Si no le gustan, puedo apagarlos</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que tiene una ventanilla rota?</Question>
+      <Answers>
+        <Answer>Alguien forzó mi coche anoche</Answer>
+        <Answer>Le dio una pelota de golf ayer cuando pasé por ese campo de golf</Answer>
+        <Answer>No lo sabía, agente. Gracias por avisarme</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que el tintado de sus ventanas es demasiado oscuro?</Question>
+      <Answers>
+        <Answer>No pasa nada. Puedo ver la carretera desde dentro</Answer>
+        <Answer>Es que soy muy tímido, agente</Answer>
+        <Answer>No quiero que la gente vea el interior de mi coche</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+    <TrafficStopQuestion>
+      <Question>¿Sabe que su carga no está bien asegurada?</Question>
+      <Answers>
+        <Answer>Creo que la até lo suficientemente bien</Answer>
+        <Answer>Al menos no se cae</Answer>
+        <Answer>Lo siento, no tengo dinero para alquilar un camión</Answer>
+      </Answers>
+    </TrafficStopQuestion>
+  </TrafficStopQuestionGroup>
+</TrafficStopQuestions>

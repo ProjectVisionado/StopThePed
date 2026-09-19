@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    # Cada etiqueta "Item" puede tener el atributo "chance"
+    # Los valores posibles de "chance" son: "rare" (raro), "normal", "often" (frecuente)
+    # Si el atributo "chance" no está definido, el plugin lo establecerá como "normal" por defecto
+-->
+<VehicleItems>
+    <RedItems>
+       <Item chance="normal">una pistola</Item>
+       <Item>un bong grande</Item>
+       <Item>un maletín lleno de heroína</Item>
+       <Item>un maletín lleno de metanfetamina</Item>
+       <Item>un maletín lleno de cocaína</Item>
+       <Item>varias bolsas de marihuana</Item>
+       <Item>una bolsa de setas alucinógenas</Item>
+       <Item>varios kilos de metanfetamina</Item>
+       <Item>varios kilos de heroína</Item>
+       <Item>varios kilos de cocaína</Item>
+       <Item chance="rare">unos nunchakus</Item>
+       <Item>un silenciador</Item>
+       <Item chance="rare">un artefacto explosivo improvisado</Item>
+       <Item chance="rare">un par de granadas</Item>
+       <Item>un rifle AR-15</Item>
+       <Item>un rifle de francotirador</Item>
+       <Item>una escopeta</Item>
+    </RedItems>
+    <YellowItems>
+       <Item chance="normal">alicates cortacables</Item>
+       <Item>varios teléfonos móviles</Item>
+       <Item>varios botes de spray de pintura</Item>
+       <Item>equipo para cortar cristales</Item>
+       <Item>varias rondas de munición</Item>
+       <Item>una bolsa de fertilizante</Item>
+       <Item>una bolsa de viaje llena de dinero</Item>
+       <Item>un maletín lleno de billetes de 100 euros</Item>
+       <Item>una máscara de payaso</Item>
+       <Item>un disfraz de payaso</Item>
+       <Item>una calavera humana</Item>
+       <Item>una gran mancha de sangre</Item>
+       <Item>una bolsa marrón repleta de dinero</Item>
+       <Item>un bote de Percocet</Item>
+       <Item>un bote de morfina</Item>
+       <Item>una ballesta</Item>
+       <Item>un hacha pequeña</Item>
+       <Item>un martillo</Item>
+       <Item>un cuchillo de cocina</Item>
+       <Item>una motosierra</Item>
+       <Item>un hacha grande</Item>
+       <Item>una palanca</Item>
+       <Item>una katana</Item>
+       <Item>un sable samurái</Item>
+       <Item>un puño americano</Item>
+       <Item>un bate de béisbol</Item>
+       <Item>un machete</Item>
+       <Item>un bote de spray de pimienta</Item>
+       <Item>una pistola Taser</Item>
+       <Item>una porra policial</Item>
+       <Item>varios comprimidos en un bote sin marcar</Item>
+       <Item>un ladrillo envuelto que contiene polvo marrón</Item>
+       <Item>un bote con un líquido transparente</Item>
+       <Item>un envase con residuos de líquido</Item>
+       <Item>una bolsa de viaje llena de bolsitas de polvo blanco</Item>
+       <Item>una báscula cubierta de polvo blanco</Item>
+       <Item>una báscula cubierta de polvo tostado</Item>
+       <Item>una bolsita vacía con residuos de polvo negro</Item>
+       <Item>un vial vacío con residuos de polvo blanco</Item>
+       <Item>varios trozos de papel secante perforado</Item>
+       <Item>dos bolsitas vacías con residuos de polvo marrón</Item>
+       <Item>un billete cubierto de polvo</Item>
+       <Item>una bolsita de pastillas sin marcar</Item>
+       <Item>una bolsita de tabletas sin marcar</Item>
+       <Item>una bolsita de cápsulas sin marcar</Item>
+       <Item>papel secante</Item>
+    </YellowItems>
+    <GreenItems>
+       <Item chance="often">una linterna</Item>
+       <Item>una toalla de playa</Item>
+       <Item>un balón de fútbol</Item>
+       <Item>un bidón de gasolina</Item>
+       <Item>un brazo protésico</Item>
+       <Item>un bote de lejía</Item>
+       <Item>bolsas de la compra</Item>
+       <Item chance="rare">una bola de bolos</Item>
+       <Item>una raqueta de tenis</Item>
+       <Item>una raqueta de bádminton</Item>
+       <Item>un violín</Item>
+       <Item>una pelota de baloncesto</Item>
+       <Item>un balón de fútbol americano</Item>
+       <Item>un balón de fútbol</Item>
+       <Item>una urna con cenizas</Item>
+       <Item chance="often">un par de zapatos</Item>
+       <Item>un par de sandalias</Item>
+       <Item>una pala</Item>
+       <Item>un portátil Macbook Pro</Item>
+       <Item>un maletín cerrado con llave</Item>
+       <Item>un montón de ropa sucia</Item>
+       <Item>un casco de moto</Item>
+       <Item>una bolsa de naranjas</Item>
+       <Item>una tostadora</Item>
+       <Item>un bote de gel hidroalcohólico</Item>
+       <Item>unos cables de arranque</Item>
+       <Item>un disfraz de Halloween</Item>
+       <Item>un sombrero de vaquero</Item>
+       <Item>un sombrero Fedora</Item>
+       <Item>una bolsa de manzanas</Item>
+       <Item>una botella de refresco de cola sin azúcar</Item>
+    </GreenItems>
+</VehicleItems>
