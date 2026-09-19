@@ -34,5 +34,8 @@ Si encuentras algún error o problema relacionado con la traducción, próximame
 **Idioma:** Español de España 🇪🇸
 
 ---
+## NO-LICENSE
+
+---
 
 © 2026 Project Vision
